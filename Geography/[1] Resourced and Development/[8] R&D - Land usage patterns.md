@@ -11,5 +11,5 @@ According to the Directorate of Economics and Statistics:
 
 ## Forest Area
 - Forest area has increased but it is still a negative feature of India's land usage according to the National Forest Policy (1952), it should be 33% but its only 23%
-
-## Importance of Forests 
+- It is considered essential as forests help maintain the ecological balances.
+- Lives of people living on the fringes of forests depend on it.
